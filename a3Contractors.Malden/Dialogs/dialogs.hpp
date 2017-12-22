@@ -1,0 +1,6 @@
+#include "common.hpp"
+#include "interaction.hpp"
+#include "giveCash.hpp"
+#include "ATM.hpp"
+#include "shop.hpp"
+#include "shopSell.hpp"
